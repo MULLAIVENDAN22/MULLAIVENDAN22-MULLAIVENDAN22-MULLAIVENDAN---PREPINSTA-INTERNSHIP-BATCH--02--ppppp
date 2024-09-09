@@ -1,0 +1,84 @@
+/* General Navbar Styling */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #02fc98;
+    color: #000;
+    padding:   0px 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    position: relative; /* Default position */
+    transition: all 0.3s ease;
+    transform: translateY(-20px);
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+}
+
+.navbar-brand h1{
+    width: 100%;
+    font-size: 40px;
+    text-align: center;
+    transform: translateX(610px) ;
+}
+
+
+/* Button Styling */
+.btn {
+    margin: 0;
+    background-color: #08ff90; /* Button background color */
+    color: #fff5f5;               /* Button text color */
+    border: none;
+    padding: 10px 30px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    transform: translateX(-604px) translateY(1000px);
+    margin-bottom: 30px;
+}
+.home_icon{
+    width: 30px;
+    height: 20px;
+}
+.btn:hover {
+    background-color: #dedddd; /* Button color on hover */
+}
+
+/* Search Bar Styling */
+.navbar-search .search-input {
+    padding: 10px 140px; /* Increase padding for a larger height */
+    border-radius: 15px; /* Makes the search bar corners rounded */
+    border: 2px solid #ccc; /* Adds a light border */
+    height: 20px; /* Increase the height of the search bar */
+    width: 200px; /* Set a specific width for the search bar */
+    font-size: 1rem; /* Adjust the font size */
+    transition: all 0.3s ease; /* Smooth transition for focus effects */
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.2));
+    transform: translateX(-420px) translateY(50px);
+    text-align: center;
+}
+
+.navbar-search .search-input:focus {
+    outline: none;
+    border-color: #ccc; /* Change border color when focused */
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2); /* Adds a slight shadow on focus */
+}
+
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .navbar {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .navbar-buttons {
+        margin-top: 10px;
+        width: 100%;
+        justify-content: flex-end;
+    }
+
+    .btn {
+        width: 100%;
+        text-align: center;
+    }
+}

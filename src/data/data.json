@@ -1,0 +1,58 @@
+[
+    {   
+        "id": "1",
+        "title": "One Piece",
+        "coverUrl": "https://th.bing.com/th/id/OIP.LhBhuzP-0-7iwuAZR9AJ9QAAAA?rs=1&pid=ImgDetMain",
+        "genre": "Action, Adventure, Fantasy",
+        "description": "Join Monkey D. Luffy and his crew of Straw Hat Pirates as they journey across the Grand Line in search of the legendary treasure known as “One Piece” to become the King of the Pirates"
+    },
+    {   
+        "id": "2",
+        "title": "Demon Slayer",
+        "coverUrl": "https://th.bing.com/th/id/OIP.Fsfh8aaX3U3OkUKlEexPagHaLH?rs=1&pid=ImgDetMain",
+        "genre": " Action, Adventure, Dark Fantasy",
+        "description": "Tanjiro Kamado becomes a demon slayer to avenge his family and cure his sister Nezuko, who has been turned into a demon, in a world filled with dangerous demons and powerful swordsmen"
+    },
+    {   
+        "id": "3",
+        "title": "Boruto: Two Blue Vortex ",
+        "coverUrl": "https://th.bing.com/th/id/OIP.MdplkUmiLNiYBkUo3xRzfQHaLp?rs=1&pid=ImgDetMain",
+        "genre": "Action, Adventure, Fantasy",
+        "description": " Follow the adventures of Boruto Uzumaki, the son of Naruto Uzumaki, as he navigates the challenges of being a young ninja in a world that has changed since his father’s time"
+    },
+    {   
+        "id": "4",
+        "title": "Jujutsu Kaisen",
+        "coverUrl": "https://www.paramithishop.gr/wp-content/uploads/2022/03/jujutsu-kaisen-vol-1.jpg",
+        "genre": "Action, Dark Fantasy, Supernatural",
+        "description": "High school student Yuji Itadori joins a secret organization of Jujutsu Sorcerers to combat Curses and protect humanity, after becoming the host of a powerful Curse named Ryomen Sukuna"
+    },
+    {   
+        "id": "5",
+        "title": "My Hero Academia",
+        "coverUrl": "https://th.bing.com/th/id/OIP.4Hd3y4BiY1B2lB1Jfsl6AwHaLH?rs=1&pid=ImgDetMain",
+        "genre": " Action, Adventure, Superhero",
+        "description": " In a world where nearly everyone has superpowers known as “Quirks,” Izuku Midoriya, a Quirkless boy, dreams of becoming the greatest hero and enrolls in U.A. High School to train under the legendary hero All Might"
+    },
+    {   
+        "id": "6",
+        "title": "Solo Leveling ",
+        "coverUrl": "https://th.bing.com/th/id/OIP.Nbyj9zBK1ddVnZrSnEo3egHaKb?rs=1&pid=ImgDetMain",
+        "genre": "Action, Adventure, Fantasy",
+        "description": " In a world where hunters battle deadly monsters, weak hunter Sung Jinwoo gains the unique ability to level up in strength after surviving a dangerous dungeon, embarking on a journey to become the strongest"
+    },
+    {   
+        "id": "7",
+        "title": "Dragon Ball z",
+        "coverUrl": "https://cdn.kobo.com/book-images/809a33e5-0add-4242-bf92-7b3f7a7cf65f/1200/1200/False/dragon-ball-z-vol-1-sj-edition.jpg",
+        "genre": " Action, Adventure, Fantasy, Martial Arts",
+        "description": "The adult Goku, along with his friends, defends Earth from a variety of powerful villains, including aliens, androids, and magical creatures, while also training his son Gohan"
+    },
+    {   
+        "id": "8",
+        "title": "Death Note",
+        "coverUrl": "https://th.bing.com/th/id/OIP.za5Liz3f8ZWZ1J9mlORfXQAAAA?rs=1&pid=ImgDetMain",
+        "genre": "Mystery, Psychological Thriller, Supernatural",
+        "description": "  High school student Light Yagami discovers a mysterious notebook that allows him to kill anyone by writing their name in it. He uses it to try to create a crime-free world, while being pursued by the enigmatic detective"
+    }
+]
